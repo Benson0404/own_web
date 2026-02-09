@@ -28,9 +28,9 @@
     "items": [
       {"title":"foodpanda實習",
         "sub":"Python · Excel · Data Analysis",
-        "images":["picture/p1.jpg",
-                  "picture/p1-2.jpg",
-                  "picture/p1-3.jpg"
+        "images":["picture/p1.JPG",
+                  "picture/p1-2.JPG",
+                  "picture/p1-3.JPG"
                 ],
         "bullets":["設計 6 張廣告 Banner 並上架至 App，最高點擊率 5.1%（+189%）",
                     "發想並執行一週五天專屬活動，強化用戶黏著度",
@@ -88,7 +88,7 @@
         {
         "title":"2024中山企管營",
         "sub":"團隊領導 創意發想 活動執行",
-        "images":["picture/p5.jpg","picture/p5-2.jpg","picture/p5-3.jpg"],
+        "images":["picture/p5.jpg","picture/p5-2.JPG","picture/p5-3.JPG"],
         "tag":"FEATURED",
         "description":"從原本僅是一個組員的身分，轉變成需主動擔起重責的組長\n\n負責內容：活動設計、活動執行負責人、統領組員",
         "downloads":[
