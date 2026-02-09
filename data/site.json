@@ -5,7 +5,7 @@
     "name": "盧冠諭 Benson Lu",
     "intro": "以數據驅動決策，以創新迎向未來。聚焦行銷策略、人力資源與數據分析，並持續拓展 AI / 網頁與資訊應用能力。",
     "chips": ["TOEIC 860", "GPA 3.93", "foodpanda Q-commerce Intern", "Power BI · Excel · Python"],
-    "cvUrl": "../picture/BensonLu_CV.pdf"
+    "cvUrl": "picture/BensonLu_CV.pdf"
   },
   "about": {
     "desc": "用俐落的文字把「你是誰、你擅長什麼、你在找什麼機會」講清楚。",
@@ -16,7 +16,7 @@
       "電商／零售資料分析、儀表板與自動化流程",
       "跨域：行銷策略、HR、數位產品與 AI 應用"
     ],
-    "photoUrl": "/picture/me.jpg",
+    "photoUrl": "picture/me.jpg",
     "quickLinks": [
       {"label":"fb", "url":"https://www.facebook.com/benson.lu.712?locale=zh_TW"},
       {"label":"LinkedIn", "url":"https://www.linkedin.com/in/benson-lu-586726317/"},
@@ -28,9 +28,9 @@
     "items": [
       {"title":"foodpanda實習",
         "sub":"Python · Excel · Data Analysis",
-        "images":["/picture/p1.jpg",
-                  "/picture/p1-2.jpg",
-                  "/picture/p1-3.jpg"
+        "images":["picture/p1.jpg",
+                  "picture/p1-2.jpg",
+                  "picture/p1-3.jpg"
                 ],
         "bullets":["設計 6 張廣告 Banner 並上架至 App，最高點擊率 5.1%（+189%）",
                     "發想並執行一週五天專屬活動，強化用戶黏著度",
@@ -39,17 +39,17 @@
                     "協助 法遵專案 AML 審核，完成近千間店家資料檢核"
                   ],
         "downloads":[
-          {"label":"簡報 PDF", "url":"/files/Benson_final.pdf"}]
+          {"label":"簡報 PDF", "url":"files/Benson_final.pdf"}]
       },
 
       {"title":"平台廣告banner設計",
         "sub":"Advertisement design",
-        "images":["/picture/p2.jpg",
-                  "/picture/p2-2.jpg",
-                  "/picture/p2-3.jpg",
-                  "/picture/p2-4.jpg",
-                  "/picture/p2-5.jpg",
-                  "/picture/p2-6.jpg"
+        "images":["picture/p2.jpg",
+                  "picture/p2-2.jpg",
+                  "picture/p2-3.jpg",
+                  "picture/p2-4.jpg",
+                  "picture/p2-5.jpg",
+                  "picture/p2-6.jpg"
                 ],
         "tag":"FEATURED",
         "description":"本企劃著重於透過創意的APP廣告banner吸引消費者點擊廣告並下單購買相關促銷商品，以提升店家銷售額"
@@ -58,41 +58,41 @@
 
       {"title":"人力資源專題", 
         "sub":"混合辦公形態下是否影響員工績效 並探討如何提升員工心裡安全感",
-        "img":"/picture/p6.png",
+        "img":"picture/p6.png",
         "tag":"FEATURED",
         "description":"本文將探討「心理安全感是否對團隊表現有高度影響」、「混合工作（遠距、行動工作模式）下的所面臨的挑戰與機會」與「WFH 對心理安全可能產生哪些影響」",
         "downloads":[
-          {"label":"報告書 PDF", "url":"/files/專題.pdf"}]
+          {"label":"報告書 PDF", "url":"files/專題.pdf"}]
       },
         
       {
         "title":"厝客松不動產商業個案分析競賽_老屋翻新計畫",
         "sub":"企劃發想 創新設計 綠色經濟",
-        "images":["/picture/p3.jpg","/picture/p3-2.jpg","/picture/p3-3.jpg"],
+        "images":["picture/p3.jpg","picture/p3-2.jpg","picture/p3-3.jpg"],
         "tag":"FEATURED",
         "description":"本企劃聚焦老屋翻新與商業模式重塑，包含市場分析、目標客群、營運策略、財務評估與簡報敘事架構。\n\n負責內容：建築樓層規劃設計、財務評估、財報製作",
         "downloads":[
-          {"label":"企劃書 PDF", "url":"/files/厝客松-房不勝房.pdf"}]
+          {"label":"企劃書 PDF", "url":"files/厝客松-房不勝房.pdf"}]
         },
 
         {
         "title":"2023中山企管營",
         "sub":"團隊協作 企畫執行 活動發想",
-        "images":["/picture/p4.jpg","/picture/p4-2.jpg"],
+        "images":["picture/p4.jpg","picture/p4-2.jpg"],
         "tag":"FEATURED",
         "description":"辦理企管營讓我在實務中磨練了多項能力。從團隊會議中協調不同意見，到設計兼具教育性與趣味性的活動，再到場地與物資的執行準備，每一步都考驗我的溝通、創意與時間管理。過程中我學會在有限資源與壓力下找到平衡，並能冷靜解決突發狀況\n\n負責內容：活動設計、活動執行",
         "downloads":[
-          {"label":"企劃書 PDF", "url":"/files/厝客松-房不勝房.pdf"}]
+          {"label":"企劃書 PDF", "url":"files/厝客松-房不勝房.pdf"}]
         },
 
         {
         "title":"2024中山企管營",
         "sub":"團隊領導 創意發想 活動執行",
-        "images":["/picture/p5.jpg","/picture/p5-2.jpg","/picture/p5-3.jpg"],
+        "images":["picture/p5.jpg","picture/p5-2.jpg","picture/p5-3.jpg"],
         "tag":"FEATURED",
         "description":"從原本僅是一個組員的身分，轉變成需主動擔起重責的組長\n\n負責內容：活動設計、活動執行負責人、統領組員",
         "downloads":[
-          {"label":"企劃書 PDF", "url":"../files/厝客松-房不勝房.pdf"}]
+          {"label":"企劃書 PDF", "url":"files/厝客松-房不勝房.pdf"}]
         }
     ]
   },
